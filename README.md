@@ -3,13 +3,21 @@ The week 1 content is about lab setup. Because I already had virtualbox, it made
 The main objectives of this project are to:
 
 Install and configure VirtualBox.
+
 Install/import Kali Linux as a virtual machine.
+
 Create a private NAT Network for the cybersecurity lab.
+
 Configure network connectivity for Kali Linux.
+
 Assign a consistent IP address to the Kali VM.
+
 Verify network connectivity and DNS resolution.
+
 Take a clean VM snapshot for recovery.
+
 troubleshoot the internet connection.
+
 Prepare the environment for future cybersecurity projects.
 
 From Nat Network configurations, kali exportation and setup, vm snapshots to writing documentation. The step by step guide made my work very easy and understandable.
